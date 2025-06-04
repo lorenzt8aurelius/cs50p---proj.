@@ -1,2 +1,5 @@
 name = input("What's your name? ")
-print("hello,", name, sep="???")
+
+name = name.strip()
+
+print(f"hello, {name}")
