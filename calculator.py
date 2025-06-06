@@ -1,5 +1,5 @@
-x = input("What's x? ")
-y = input("What's y? ")
+students = input("Enter number of students: ")
+seats = input("Enter number of seats: ")
 
-z = int(x) + int(y)
-print(z)
+total = students + seats
+print(total)
