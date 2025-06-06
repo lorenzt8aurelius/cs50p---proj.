@@ -1,5 +1,4 @@
-students = input("Enter number of students: ")
-seats = input("Enter number of seats: ")
+students = int(input("Enter number of students: "))
+seats = int(input("Enter number of seats: "))
 
-total = int(students) + int(seats)
-print(total)
+print(students + seats)
