@@ -1,5 +1,5 @@
 name = input("What's your name? ").strip().title()
 
-first, last = name.split(" ")
+#f is a format string that is uses "{}" for it's variable
 
 print(f"hello, {name}")
