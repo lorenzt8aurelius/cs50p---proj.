@@ -10,6 +10,6 @@
 students = float(input("Enter number of students: "))
 seats = float(input("Enter number of seats: "))
 
-total = round(students + seats)
+total = round(students / seats, 2)
 
-print(f"{total:,}")
+print(total)
