@@ -7,3 +7,6 @@ def main():
 def hello(to):
     print("Hi there,", to)
 
+
+main()
+#in this part here we are defining a function
