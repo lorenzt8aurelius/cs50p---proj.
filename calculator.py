@@ -1,15 +1,3 @@
-
-#conversion or type casting
-
-#2 types of conversion
-#Implicit Conversion (Type Coercion)
-#Explicit Conversion (Type Casting)
-
-#means that makes the code more readable
-
-students = float(input("Enter number of students: "))
-seats = float(input("Enter number of seats: "))
-
-total = round(students / seats, 2)
-
-print(total)
+def main():
+    x = int(input("What is x? "))
+    print("x squared is", square(x))
