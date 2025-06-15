@@ -1,1 +1,1 @@
-print("Indoor voice")
+voice = input("").title()
