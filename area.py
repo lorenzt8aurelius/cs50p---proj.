@@ -4,4 +4,4 @@ def area(lenght, width):
 def main():
     area(100, 150)
 
-print(main)
+(main)
