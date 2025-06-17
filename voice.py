@@ -1,3 +1,7 @@
-voice = input("").title()
+def main():
+    voice = input("").title()
+    print(voice)
 
-print(voice)
+main()
+
+
