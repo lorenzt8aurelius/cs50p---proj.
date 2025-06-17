@@ -3,5 +3,6 @@ def area(lenght, width):
 
 def main():
     area(100, 150)
+    area(60, 70)
 
 (main)
