@@ -1,8 +1,9 @@
 def area(lenght, width):
-    print(str(lenght * width) + "square feet")
+    return lenght * width
 
 def main():
-    area(100, 150)
-    area(60, 70)
+    house = area(100, 150)
+    yard = area(60, 70)
+    total = house + yard
 
 (main)
