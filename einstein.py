@@ -3,7 +3,7 @@ def einstein():
     c = 300000000
     energy = mass * c ** 2
 
-    print(einstein)
+    print(energy)
 
     
 einstein()
