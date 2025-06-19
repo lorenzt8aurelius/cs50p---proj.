@@ -1,4 +1,5 @@
 x = int(input("What is x? "))
 y = int(input("What is y? "))
 
-if
+if x < y:
+    print("x is less that y")
