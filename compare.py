@@ -4,4 +4,4 @@ y = int(input("What is y? "))
 if x < y:
     print("x is less that y")
 if x > y:
-    print("x is not less that y")
+    print("x is greater that y")
