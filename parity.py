@@ -1,1 +1,1 @@
-x = int(input(""))
+x = int(input("What's x? "))
