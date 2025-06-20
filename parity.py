@@ -4,3 +4,9 @@ def main():
         print("Even")
     else:
         print("Odd")
+
+
+def is_even()
+    
+
+def main()
