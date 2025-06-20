@@ -6,7 +6,7 @@ def main():
         print("Odd")
 
 
-def is_even()
+def is_even(n)
     
 
 def main()
