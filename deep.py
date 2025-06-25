@@ -3,7 +3,7 @@ def deep():
 
     text = text.strip().lower()
 
-    if text == "42" or "forty two" or "forty-two" :
+    if text == "42" or text == "forty two" or text == "forty-two":
         print("Yes")
     else:
         print("No")
