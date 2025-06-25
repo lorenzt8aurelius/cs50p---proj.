@@ -4,11 +4,12 @@ def main():
 
     if difficulty == "Difficult":
         if difficulty == "Casual":
-             ...
+             recommend("Poker")
         else:
-            ...if players == 
+            recommend("Klondite")
     else:
-
+        if players == "Multiplayer":
+        if players == "Single-player":
     
 
 def recommend(game):
