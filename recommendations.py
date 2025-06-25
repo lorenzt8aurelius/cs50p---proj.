@@ -3,15 +3,20 @@ def main():
     players = input("Multiplayer or Single-player? ")
 
     if difficulty == "Difficult":
-        if difficulty == "Casual":
-             recommend("Poker")
-        else:
+        if difficulty == "Multiplayer":
+          recommend("Poker")
+        elif difficulty == "Single-player":
             recommend("Klondite")
-    else:
+        else:
+            print("Enter a valid number difficulty")
+            
         if players == "Multiplayer":
             recommend("Hearts")
-        else:
+        elif players == "Single-player":
             recommend("Clock")
+        else:
+            print("Enter a valid player")
+            
     
 
 def recommend(game):
