@@ -3,12 +3,12 @@ def deep():
 
     answer = answer.strip().lower()
 
-    if text == "42" | "Forty two" | "Forty-two" | "forty two" | "forty-two":
+    if text == "42" | "Forty two" | "Forty-two" :
         print("yes")
     else:
         print("No")
 
-deep()
+deep():
         
         
 
