@@ -9,7 +9,9 @@ def main():
             recommend("Klondite")
     else:
         if players == "Multiplayer":
-        if players == "Single-player":
+            recommend("Hearts")
+        else:
+            recommend("Clock")
     
 
 def recommend(game):
