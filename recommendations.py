@@ -5,4 +5,7 @@ def main():
     if difficulty == "Difficult":
         ...
     else:
-        
+        ...
+
+def recommend(game):
+    print("You might like", game)
