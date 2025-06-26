@@ -3,9 +3,9 @@ def main():
 
     greeting = greeting.strip().lower()
 
-    if greeting.startwith("hello"):
+    if greeting.starstwith("hello"):
         print("0$") 
-    elif greeting.startwith("h"):
+    elif greeting.starstwith("h"):
         print("20$") 
     else:
         print("0$") 
