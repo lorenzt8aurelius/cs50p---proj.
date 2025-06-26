@@ -3,5 +3,5 @@ def main():
 
     file = file.strip().lower()
 
-    if file == "cat.gif":
+    if file.endswith ("cat.gif"):
         print("")
