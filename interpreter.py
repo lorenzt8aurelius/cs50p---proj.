@@ -1,2 +1,6 @@
 def main():
-    express = int(input("Expressions: "))
+    express = input("Expressions: ")
+
+    x, op, z = expressions.split()
+    x = float(x)
+    y = float(y)
