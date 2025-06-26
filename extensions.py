@@ -1,2 +1,7 @@
 def main():
-    files = input("File name: ")
+    file = input("File name: ")
+
+    file = file.strip().lower()
+
+    if file == "cat.gif":
+        print("")
