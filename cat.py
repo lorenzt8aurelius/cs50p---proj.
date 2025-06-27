@@ -1,4 +1,2 @@
-i = 1
-while i < 3:
-    print("pussy")
-    i += 1
+for i in [0, 1, 2]:
+    print("Pussy")
