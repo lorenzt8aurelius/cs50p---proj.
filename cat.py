@@ -1,1 +1,6 @@
-print("meow\n" * 5, end="")
+while True:
+    n = int(input("How many meow? "))
+    if n < 0:
+        continue
+    else:
+        break
