@@ -1,2 +1,1 @@
-for i in range(3):
-    print("Pussy")
+print("meow\n" * 5, end="")
