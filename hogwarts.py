@@ -1,4 +1,4 @@
 students = ["lorenz", "Jay", "jj"]
 
-    for s in students:
-        print(s)
+    for students in students:
+        print(students)
