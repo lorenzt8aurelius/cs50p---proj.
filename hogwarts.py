@@ -1,5 +1,5 @@
 students = ["lorenz", "Jay", "jj"]
 
-    for i in range(len(students)):
-        print(i + 1, students[i])
+for i in range(len(students)):
+    print(i + 1, students[i])
        
