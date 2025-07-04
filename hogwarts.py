@@ -4,4 +4,4 @@ students = [
 ]
 
 for students in student:
-    print(student["name"], student["house"], student["age"])
+    print(student["name"], student["house"], student["age"] sep=",")
