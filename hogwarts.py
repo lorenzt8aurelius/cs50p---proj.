@@ -1,5 +1,7 @@
 students = {
-    "lorenz", "Jay", "jj"
+    "lorenz": "Candidier",
+    "Jay": "Lorenz", 
+    "jj": "Lorenz"
 }
 
 for i in range(len(students)):
